@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: 215d6ffd0eb88864daa4a2eb2d323ae7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6564736804232030023
+    second: Sprites mack-wf_0
+  - first:
+      213: -2028944666590078438
+    second: Sprites mack-wf_1
+  - first:
+      213: -1248436335200114033
+    second: Sprites mack-wf_2
+  - first:
+      213: 5902572995165763524
+    second: Sprites mack-wf_3
+  - first:
+      213: -1802386367324775861
+    second: Sprites mack-wf_4
+  - first:
+      213: -7230993887437023435
+    second: Sprites mack-wf_5
+  - first:
+      213: -1959842087812511133
+    second: Sprites mack-wf_6
+  - first:
+      213: 5623105322396117166
+    second: Sprites mack-wf_7
+  - first:
+      213: -2241915126244162589
+    second: Sprites mack-wf_8
+  - first:
+      213: -608794547037598071
+    second: Sprites mack-wf_9
+  - first:
+      213: 3326263263776121764
+    second: Sprites mack-wf_10
+  - first:
+      213: 233502564002117059
+    second: Sprites mack-wf_11
+  - first:
+      213: 2667575290314175910
+    second: Sprites mack-wf_12
+  - first:
+      213: -4725665821617980036
+    second: Sprites mack-wf_13
+  - first:
+      213: 5152274854844972468
+    second: Sprites mack-wf_14
+  - first:
+      213: 1199754771115764760
+    second: Sprites mack-wf_15
+  - first:
+      213: -1631484785007559629
+    second: Sprites mack-wf_16
+  - first:
+      213: -4776792923512787104
+    second: Sprites mack-wf_17
+  - first:
+      213: 7082347456797539925
+    second: Sprites mack-wf_18
+  - first:
+      213: -8208365822768515489
+    second: Sprites mack-wf_19
+  - first:
+      213: -5331118568148203564
+    second: Sprites mack-wf_20
+  - first:
+      213: 7681406132729686122
+    second: Sprites mack-wf_21
+  - first:
+      213: 7180323144334074509
+    second: Sprites mack-wf_22
+  - first:
+      213: -6279932266824154770
+    second: Sprites mack-wf_23
+  - first:
+      213: -222326524324612574
+    second: Sprites mack-wf_24
+  - first:
+      213: 3168781651478888490
+    second: Sprites mack-wf_25
+  - first:
+      213: -6258754704351612840
+    second: Sprites mack-wf_26
+  - first:
+      213: -7024213591249714858
+    second: Sprites mack-wf_27
+  - first:
+      213: -8579603839600217455
+    second: Sprites mack-wf_28
+  - first:
+      213: 13489046464471000
+    second: Sprites mack-wf_29
+  - first:
+      213: -4645956245900023226
+    second: Sprites mack-wf_30
+  - first:
+      213: 2831023741081104190
+    second: Sprites mack-wf_31
+  - first:
+      213: -7227029179082780736
+    second: Sprites mack-wf_32
+  - first:
+      213: -7065948024588545705
+    second: Sprites mack-wf_33
+  - first:
+      213: -7247473901360913384
+    second: Sprites mack-wf_34
+  - first:
+      213: -6964316241444725881
+    second: Sprites mack-wf_35
+  - first:
+      213: 6525190559144026550
+    second: Sprites mack-wf_36
+  - first:
+      213: -486794732359345234
+    second: Sprites mack-wf_37
+  - first:
+      213: 5070408898403136954
+    second: Sprites mack-wf_38
+  - first:
+      213: 4424571515596454719
+    second: Sprites mack-wf_39
+  - first:
+      213: 5245471501209865658
+    second: Sprites mack-wf_40
+  - first:
+      213: -7915772322700132795
+    second: Sprites mack-wf_41
+  - first:
+      213: 7270518707727649444
+    second: Sprites mack-wf_42
+  - first:
+      213: -1233530578215088608
+    second: Sprites mack-wf_43
+  - first:
+      213: 5658818279866761473
+    second: Sprites mack-wf_44
+  - first:
+      213: 8572258603439336916
+    second: Sprites mack-wf_45
+  - first:
+      213: -8003982750564883496
+    second: Sprites mack-wf_46
+  - first:
+      213: -288980708649099248
+    second: Sprites mack-wf_47
+  - first:
+      213: 1026510740267011344
+    second: Sprites mack-wf_48
+  - first:
+      213: -4800039122347119180
+    second: Sprites mack-wf_49
+  - first:
+      213: -4616059421394260410
+    second: Sprites mack-wf_50
+  - first:
+      213: -2957293032109664652
+    second: Sprites mack-wf_51
+  - first:
+      213: -488248287238967939
+    second: Sprites mack-wf_52
+  - first:
+      213: -8219026817799903099
+    second: Sprites mack-wf_53
+  - first:
+      213: -8205588768979865574
+    second: Sprites mack-wf_54
+  - first:
+      213: -5343118023041235051
+    second: Sprites mack-wf_55
+  - first:
+      213: 5999054071772452420
+    second: Sprites mack-wf_56
+  - first:
+      213: -4800020607588967565
+    second: Sprites mack-wf_57
+  - first:
+      213: -4026143197089667174
+    second: Sprites mack-wf_58
+  - first:
+      213: 8869544877767679534
+    second: Sprites mack-wf_59
+  - first:
+      213: -4110210368733676124
+    second: Sprites mack-wf_60
+  - first:
+      213: 5130440367352076652
+    second: Sprites mack-wf_61
+  - first:
+      213: 1737981954216049581
+    second: Sprites mack-wf_62
+  - first:
+      213: -7306797486845838630
+    second: Sprites mack-wf_63
+  - first:
+      213: 407154970526388645
+    second: Sprites mack-wf_64
+  - first:
+      213: 954843198216328081
+    second: Sprites mack-wf_65
+  - first:
+      213: 6523305624400037698
+    second: Sprites mack-wf_66
+  - first:
+      213: -3391690449413343594
+    second: Sprites mack-wf_67
+  - first:
+      213: -4653477906177637508
+    second: Sprites mack-wf_68
+  - first:
+      213: -7968662160716720962
+    second: Sprites mack-wf_69
+  - first:
+      213: -9151483038050995687
+    second: Sprites mack-wf_70
+  - first:
+      213: -1455229780143858231
+    second: Sprites mack-wf_71
+  - first:
+      213: -9196304101767032779
+    second: Sprites mack-wf_72
+  - first:
+      213: 9172467120344309393
+    second: Sprites mack-wf_73
+  - first:
+      213: 2330580865233962854
+    second: Sprites mack-wf_74
+  - first:
+      213: -8127631592337138
+    second: Sprites mack-wf_75
+  - first:
+      213: -2322459058950252208
+    second: Sprites mack-wf_76
+  - first:
+      213: -1580540697530183164
+    second: Sprites mack-wf_77
+  - first:
+      213: -1911361586857751098
+    second: Sprites mack-wf_78
+  - first:
+      213: -5889993213330674950
+    second: Sprites mack-wf_79
+  - first:
+      213: -2499409207039888956
+    second: Sprites mack-wf_80
+  - first:
+      213: -8939041197133181276
+    second: Sprites mack-wf_81
+  - first:
+      213: -7132562431605339659
+    second: Sprites mack-wf_82
+  - first:
+      213: 3653140135687300832
+    second: Sprites mack-wf_83
+  - first:
+      213: -2026666054936021217
+    second: Sprites mack-wf_84
+  - first:
+      213: -4698853314218135699
+    second: Sprites mack-wf_85
+  - first:
+      213: -2437478842721898713
+    second: Sprites mack-wf_86
+  - first:
+      213: 3542150891298599142
+    second: Sprites mack-wf_87
+  - first:
+      213: -6752385086750431893
+    second: Sprites mack-wf_88
+  - first:
+      213: -3920912390815068674
+    second: Sprites mack-wf_89
+  - first:
+      213: -6510089102326963262
+    second: Sprites mack-wf_90
+  - first:
+      213: -8853838635993964641
+    second: Sprites mack-wf_91
+  - first:
+      213: 7608205740487014074
+    second: Sprites mack-wf_92
+  - first:
+      213: 5192300546310787763
+    second: Sprites mack-wf_93
+  - first:
+      213: 1768955827015357031
+    second: Sprites mack-wf_94
+  - first:
+      213: -4743844002183794119
+    second: Sprites mack-wf_95
+  - first:
+      213: 4449500369035349636
+    second: Sprites mack-wf_96
+  - first:
+      213: -6945113011334415941
+    second: Sprites mack-wf_97
+  - first:
+      213: 7267155072623767212
+    second: Sprites mack-wf_98
+  - first:
+      213: -1773285622186511825
+    second: Sprites mack-wf_99
+  - first:
+      213: -6885337941643527607
+    second: Sprites mack-wf_100
+  - first:
+      213: 1926407394036749773
+    second: Sprites mack-wf_101
+  - first:
+      213: 2626755916251840296
+    second: Sprites mack-wf_102
+  - first:
+      213: 2081875480744818164
+    second: Sprites mack-wf_103
+  - first:
+      213: 4424157469788461453
+    second: Sprites mack-wf_104
+  - first:
+      213: -2295153666280285258
+    second: Sprites mack-wf_105
+  - first:
+      213: -7146515402722633063
+    second: Sprites mack-wf_106
+  - first:
+      213: 1994984398526138953
+    second: Sprites mack-wf_107
+  - first:
+      213: 6549359817509772573
+    second: Sprites mack-wf_108
+  - first:
+      213: -8565433762997543682
+    second: Sprites mack-wf_109
+  - first:
+      213: 3900927020926927428
+    second: Sprites mack-wf_110
+  - first:
+      213: 789025890575222759
+    second: Sprites mack-wf_111
+  - first:
+      213: -6182474413471743194
+    second: Sprites mack-wf_112
+  - first:
+      213: 88170333720896603
+    second: Sprites mack-wf_113
+  - first:
+      213: -8627252315873296653
+    second: Sprites mack-wf_114
+  - first:
+      213: 1524056067401432034
+    second: Sprites mack-wf_115
+  - first:
+      213: 7694506630785220989
+    second: Sprites mack-wf_116
+  - first:
+      213: -5489144460081629692
+    second: Sprites mack-wf_117
+  - first:
+      213: -38574390206041377
+    second: Sprites mack-wf_118
+  - first:
+      213: 2403771470820829842
+    second: Sprites mack-wf_119
+  - first:
+      213: -3892041186747788974
+    second: Sprites mack-wf_120
+  - first:
+      213: 8731797841452569526
+    second: Sprites mack-wf_121
+  - first:
+      213: -5180212943909180647
+    second: Sprites mack-wf_122
+  - first:
+      213: 6608818791487024315
+    second: Sprites mack-wf_123
+  - first:
+      213: -4123204538851726069
+    second: Sprites mack-wf_124
+  - first:
+      213: 4379840166760293002
+    second: Sprites mack-wf_125
+  - first:
+      213: 41009052135652993
+    second: Sprites mack-wf_126
+  - first:
+      213: 4898880327506997490
+    second: Sprites mack-wf_127
+  - first:
+      213: 8677473366278719075
+    second: Sprites mack-wf_128
+  - first:
+      213: 9159070152508400522
+    second: Sprites mack-wf_129
+  - first:
+      213: 7476790010873446964
+    second: Sprites mack-wf_130
+  - first:
+      213: 5140472184505843281
+    second: Sprites mack-wf_131
+  - first:
+      213: -7274801364055868837
+    second: Sprites mack-wf_132
+  - first:
+      213: -4805806833913537118
+    second: Sprites mack-wf_133
+  - first:
+      213: 8693317994491800069
+    second: Sprites mack-wf_134
+  - first:
+      213: 434240545163480972
+    second: Sprites mack-wf_135
+  - first:
+      213: -4734557025918029186
+    second: Sprites mack-wf_136
+  - first:
+      213: -1664976865172882782
+    second: Sprites mack-wf_137
+  - first:
+      213: 8614685593958301042
+    second: Sprites mack-wf_138
+  - first:
+      213: -1239107738475512468
+    second: Sprites mack-wf_139
+  - first:
+      213: -5165928021926335516
+    second: Sprites mack-wf_140
+  - first:
+      213: -7446988259662913062
+    second: Sprites mack-wf_141
+  - first:
+      213: 3763796819272774227
+    second: Sprites mack-wf_142
+  - first:
+      213: 6414638718953748762
+    second: Sprites mack-wf_143
+  - first:
+      213: 7638901081637406416
+    second: Sprites mack-wf_144
+  - first:
+      213: -1495262425438136967
+    second: Sprites mack-wf_145
+  - first:
+      213: 7291542262832320827
+    second: Sprites mack-wf_146
+  - first:
+      213: 6816349131090575885
+    second: Sprites mack-wf_147
+  - first:
+      213: -2802797314401425390
+    second: Sprites mack-wf_148
+  - first:
+      213: -6916015635254534745
+    second: Sprites mack-wf_149
+  - first:
+      213: -87448416182200901
+    second: Sprites mack-wf_150
+  - first:
+      213: -4529317549552472088
+    second: Sprites mack-wf_151
+  - first:
+      213: -851853691286089397
+    second: Sprites mack-wf_152
+  - first:
+      213: 1399030478921101074
+    second: Sprites mack-wf_153
+  - first:
+      213: 7779157823238543227
+    second: Sprites mack-wf_154
+  - first:
+      213: 1934159590053845846
+    second: Sprites mack-wf_155
+  - first:
+      213: 1433937670385971460
+    second: Sprites mack-wf_156
+  - first:
+      213: -4194882831775777745
+    second: Sprites mack-wf_157
+  - first:
+      213: -3249936187422750795
+    second: Sprites mack-wf_158
+  - first:
+      213: -6214387503628402315
+    second: Sprites mack-wf_159
+  - first:
+      213: 3412603991625872691
+    second: Sprites mack-wf_160
+  - first:
+      213: 96089087460523963
+    second: Sprites mack-wf_161
+  - first:
+      213: -6834088712176937485
+    second: Sprites mack-wf_162
+  - first:
+      213: 6554176446022823413
+    second: Sprites mack-wf_163
+  - first:
+      213: 4196609844150570307
+    second: Sprites mack-wf_164
+  - first:
+      213: -4786929802877640793
+    second: Sprites mack-wf_165
+  - first:
+      213: 487026007181473099
+    second: Sprites mack-wf_166
+  - first:
+      213: 8025441435287842145
+    second: Sprites mack-wf_167
+  - first:
+      213: -5354305928192154617
+    second: Sprites mack-wf_168
+  - first:
+      213: 7508780069689713493
+    second: Sprites mack-wf_169
+  - first:
+      213: 2026469683223457057
+    second: Sprites mack-wf_170
+  - first:
+      213: 1737879696720938918
+    second: Sprites mack-wf_171
+  - first:
+      213: 5877639016305974331
+    second: Sprites mack-wf_172
+  - first:
+      213: -5502208531509673458
+    second: Sprites mack-wf_173
+  - first:
+      213: -3501010844534221066
+    second: Sprites mack-wf_174
+  - first:
+      213: -713393394112776508
+    second: Sprites mack-wf_175
+  - first:
+      213: 6941547189045228409
+    second: Sprites mack-wf_176
+  - first:
+      213: -6739437325414514486
+    second: Sprites mack-wf_177
+  - first:
+      213: 5216980664634606581
+    second: Sprites mack-wf_178
+  - first:
+      213: -1793119035456988292
+    second: Sprites mack-wf_179
+  - first:
+      213: -5370670388298010462
+    second: Sprites mack-wf_180
+  - first:
+      213: 5092034573701783295
+    second: Sprites mack-wf_181
+  - first:
+      213: 5796113085160856544
+    second: Sprites mack-wf_182
+  - first:
+      213: -5106699009698054816
+    second: Sprites mack-wf_183
+  - first:
+      213: 3716282387149180505
+    second: Sprites mack-wf_184
+  - first:
+      213: 8725559335069101112
+    second: Sprites mack-wf_185
+  - first:
+      213: 7810365126417460122
+    second: Sprites mack-wf_186
+  - first:
+      213: 2699256050749644357
+    second: Sprites mack-wf_187
+  - first:
+      213: 5878364195320808995
+    second: Sprites mack-wf_188
+  - first:
+      213: -9213266835142788594
+    second: Sprites mack-wf_189
+  - first:
+      213: -7166455282886151907
+    second: Sprites mack-wf_190
+  - first:
+      213: 1940813656063838527
+    second: Sprites mack-wf_191
+  - first:
+      213: -812596351232474638
+    second: Sprites mack-wf_192
+  - first:
+      213: -2287724998100563469
+    second: Sprites mack-wf_193
+  - first:
+      213: 2282862431755552547
+    second: Sprites mack-wf_194
+  - first:
+      213: -7532509604948824673
+    second: Sprites mack-wf_195
+  - first:
+      213: -4751059728717707289
+    second: Sprites mack-wf_196
+  - first:
+      213: 4249963102074940313
+    second: Sprites mack-wf_197
+  - first:
+      213: 7855756533505422140
+    second: Sprites mack-wf_198
+  - first:
+      213: -2139850844823426174
+    second: Sprites mack-wf_199
+  - first:
+      213: 2493193967625188701
+    second: Sprites mack-wf_200
+  - first:
+      213: 466464775494437607
+    second: Sprites mack-wf_201
+  - first:
+      213: -1726046507159176750
+    second: Sprites mack-wf_202
+  - first:
+      213: 7463823356601224230
+    second: Sprites mack-wf_203
+  - first:
+      213: 1927363911258966704
+    second: Sprites mack-wf_204
+  - first:
+      213: -2827839299150889811
+    second: Sprites mack-wf_205
+  - first:
+      213: 2084812184349072020
+    second: Sprites mack-wf_206
+  - first:
+      213: -2178554161430110518
+    second: Sprites mack-wf_207
+  - first:
+      213: -7158873262819287741
+    second: Sprites mack-wf_208
+  - first:
+      213: -7707104700262151912
+    second: Sprites mack-wf_209
+  - first:
+      213: -8912739823540422949
+    second: Sprites mack-wf_210
+  - first:
+      213: 1610854868997138059
+    second: Sprites mack-wf_211
+  - first:
+      213: -1725109898349303350
+    second: Sprites mack-wf_212
+  - first:
+      213: -272602415148978225
+    second: Sprites mack-wf_213
+  - first:
+      213: -1848216589628609576
+    second: Sprites mack-wf_214
+  - first:
+      213: -2785216695274578017
+    second: Sprites mack-wf_215
+  - first:
+      213: 5431095035550778823
+    second: Sprites mack-wf_216
+  - first:
+      213: -8879996727858188589
+    second: Sprites mack-wf_217
+  - first:
+      213: -3013835654709139637
+    second: Sprites mack-wf_218
+  - first:
+      213: 948185624526840264
+    second: Sprites mack-wf_219
+  - first:
+      213: -2530165347724065969
+    second: Sprites mack-wf_220
+  - first:
+      213: -1647017461822280877
+    second: Sprites mack-wf_221
+  - first:
+      213: -5569855857523414974
+    second: Sprites mack-wf_222
+  - first:
+      213: -3276059647667261344
+    second: Sprites mack-wf_223
+  - first:
+      213: -2591811750809789195
+    second: Sprites mack-wf_224
+  - first:
+      213: -6760038886637713047
+    second: Sprites mack-wf_225
+  - first:
+      213: 6202156965988369894
+    second: Sprites mack-wf_226
+  - first:
+      213: -8877899874302059352
+    second: Sprites mack-wf_227
+  - first:
+      213: 1190271270616873889
+    second: Sprites mack-wf_228
+  - first:
+      213: 6257476575277567425
+    second: Sprites mack-wf_229
+  - first:
+      213: 5217230569747941803
+    second: Sprites mack-wf_230
+  - first:
+      213: 2014286287611495479
+    second: Sprites mack-wf_231
+  - first:
+      213: 956223758576559933
+    second: Sprites mack-wf_232
+  - first:
+      213: -1601149799827175624
+    second: Sprites mack-wf_233
+  - first:
+      213: -1798189225161790833
+    second: Sprites mack-wf_234
+  - first:
+      213: 4163969925474142153
+    second: Sprites mack-wf_235
+  - first:
+      213: -7737749544201368091
+    second: Sprites mack-wf_236
+  - first:
+      213: -5758461950511517335
+    second: Sprites mack-wf_237
+  - first:
+      213: -393247794010694845
+    second: Sprites mack-wf_238
+  - first:
+      213: 2752686764847449311
+    second: Sprites mack-wf_239
+  - first:
+      213: -6789483407993318706
+    second: Sprites mack-wf_240
+  - first:
+      213: -5942081224990571432
+    second: Sprites mack-wf_241
+  - first:
+      213: -153625573634201829
+    second: Sprites mack-wf_242
+  - first:
+      213: -8186634675817071381
+    second: Sprites mack-wf_243
+  - first:
+      213: 3711970137509023288
+    second: Sprites mack-wf_244
+  - first:
+      213: 6330733009862433262
+    second: Sprites mack-wf_245
+  - first:
+      213: -3460339118646644439
+    second: Sprites mack-wf_246
+  - first:
+      213: -6732149814511218449
+    second: Sprites mack-wf_247
+  - first:
+      213: -6051333619291304804
+    second: Sprites mack-wf_248
+  - first:
+      213: -1495619029422427120
+    second: Sprites mack-wf_249
+  - first:
+      213: -713664554027456222
+    second: Sprites mack-wf_250
+  - first:
+      213: -4535704044963079842
+    second: Sprites mack-wf_251
+  - first:
+      213: 6718373235314976568
+    second: Sprites mack-wf_252
+  - first:
+      213: 1859629334060731931
+    second: Sprites mack-wf_253
+  - first:
+      213: 1710529033502193962
+    second: Sprites mack-wf_254
+  - first:
+      213: 929175471204244329
+    second: Sprites mack-wf_255
+  - first:
+      213: -2574016329795540030
+    second: Sprites mack-wf_256
+  - first:
+      213: 3322869180706323859
+    second: Sprites mack-wf_257
+  - first:
+      213: -5506834723523487065
+    second: Sprites mack-wf_258
+  - first:
+      213: -326016857351681745
+    second: Sprites mack-wf_259
+  - first:
+      213: 3118547731874108175
+    second: Sprites mack-wf_260
+  - first:
+      213: 7986107189113309360
+    second: Sprites mack-wf_261
+  - first:
+      213: -5436722592749939055
+    second: Sprites mack-wf_262
+  - first:
+      213: -9059481367433983811
+    second: Sprites mack-wf_263
+  - first:
+      213: -8151366950453166986
+    second: Sprites mack-wf_264
+  - first:
+      213: 3273791283856047704
+    second: Sprites mack-wf_265
+  - first:
+      213: 5116379907370458039
+    second: Sprites mack-wf_266
+  - first:
+      213: -2146003625668073842
+    second: Sprites mack-wf_267
+  - first:
+      213: 3199645106673785014
+    second: Sprites mack-wf_268
+  - first:
+      213: -7598419458709699934
+    second: Sprites mack-wf_269
+  - first:
+      213: -4263999671654341006
+    second: Sprites mack-wf_270
+  - first:
+      213: 1249853958725667728
+    second: Sprites mack-wf_271
+  - first:
+      213: -6156299678970043919
+    second: Sprites mack-wf_272
+  - first:
+      213: -7591379769962865666
+    second: Sprites mack-wf_273
+  - first:
+      213: 9138145355982412979
+    second: Sprites mack-wf_274
+  - first:
+      213: -14798206954823578
+    second: Sprites mack-wf_275
+  - first:
+      213: -5343454673909725416
+    second: Sprites mack-wf_276
+  - first:
+      213: -1375556433552385960
+    second: Sprites mack-wf_277
+  - first:
+      213: -4370549181795164317
+    second: Sprites mack-wf_278
+  - first:
+      213: 165414600199486459
+    second: Sprites mack-wf_279
+  - first:
+      213: -7525337283798398694
+    second: Sprites mack-wf_280
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites mack-wf_0
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 66
+        width: 140
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b811d378ae55e4a0800000000000000
+      internalID: -6564736804232030023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_196
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 514
+        width: 109
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e70e135958d01eb0800000000000000
+      internalID: -4751059728717707289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_197
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 108
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ba1bf8ce6eafa30800000000000000
+      internalID: 4249963102074940313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_198
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 514
+        width: 108
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c337b8512f0450d60800000000000000
+      internalID: 7855756533505422140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_199
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 514
+        width: 133
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28beaf97ef8bd42e0800000000000000
+      internalID: -2139850844823426174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_200
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 514
+        width: 99
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55327c34ba999220800000000000000
+      internalID: 2493193967625188701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_201
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 514
+        width: 104
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea049bed37397600800000000000000
+      internalID: 466464775494437607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_202
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 512
+        width: 117
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d939f2c8d9db08e0800000000000000
+      internalID: -1726046507159176750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_203
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 511
+        width: 131
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cca7c3cc3d49760800000000000000
+      internalID: 7463823356601224230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_209
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 278
+        width: 114
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819812eeb1dda0590800000000000000
+      internalID: -7707104700262151912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_210
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 280
+        width: 113
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6356a2a569f4480800000000000000
+      internalID: -8912739823540422949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_211
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 281
+        width: 116
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86684bf7f7ea5610800000000000000
+      internalID: 1610854868997138059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_212
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 285
+        width: 115
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9216effad2f08e0800000000000000
+      internalID: -1725109898349303350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_213
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 278
+        width: 115
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfa1283c85873cf0800000000000000
+      internalID: -272602415148978225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_214
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 280
+        width: 115
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbe333ddc0d956e0800000000000000
+      internalID: -1848216589628609576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_215
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 279
+        width: 116
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fdbaf1c2ce859d0800000000000000
+      internalID: -2785216695274578017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_216
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 285
+        width: 114
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5446fd8202f5b40800000000000000
+      internalID: 5431095035550778823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_246
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 57
+        width: 132
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921bdaeb7e76affc0800000000000000
+      internalID: -3460339118646644439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_252
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 140
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837e07facd47c3d50800000000000000
+      internalID: 6718373235314976568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_253
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 181
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e069ec60bbec910800000000000000
+      internalID: 1859629334060731931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_254
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 62
+        width: 91
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29f3ebd7150db710800000000000000
+      internalID: 1710529033502193962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites mack-wf_255
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 66
+        width: 135
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b92270b2815ec00800000000000000
+      internalID: 929175471204244329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 917668f2d83ee6640a1133add749cd4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sprites mack-wf_0: -6564736804232030023
+      Sprites mack-wf_1: -2028944666590078438
+      Sprites mack-wf_10: 3326263263776121764
+      Sprites mack-wf_100: -6885337941643527607
+      Sprites mack-wf_101: 1926407394036749773
+      Sprites mack-wf_102: 2626755916251840296
+      Sprites mack-wf_103: 2081875480744818164
+      Sprites mack-wf_104: 4424157469788461453
+      Sprites mack-wf_105: -2295153666280285258
+      Sprites mack-wf_106: -7146515402722633063
+      Sprites mack-wf_107: 1994984398526138953
+      Sprites mack-wf_108: 6549359817509772573
+      Sprites mack-wf_109: -8565433762997543682
+      Sprites mack-wf_11: 233502564002117059
+      Sprites mack-wf_110: 3900927020926927428
+      Sprites mack-wf_111: 789025890575222759
+      Sprites mack-wf_112: -6182474413471743194
+      Sprites mack-wf_113: 88170333720896603
+      Sprites mack-wf_114: -8627252315873296653
+      Sprites mack-wf_115: 1524056067401432034
+      Sprites mack-wf_116: 7694506630785220989
+      Sprites mack-wf_117: -5489144460081629692
+      Sprites mack-wf_118: -38574390206041377
+      Sprites mack-wf_119: 2403771470820829842
+      Sprites mack-wf_12: 2667575290314175910
+      Sprites mack-wf_120: -3892041186747788974
+      Sprites mack-wf_121: 8731797841452569526
+      Sprites mack-wf_122: -5180212943909180647
+      Sprites mack-wf_123: 6608818791487024315
+      Sprites mack-wf_124: -4123204538851726069
+      Sprites mack-wf_125: 4379840166760293002
+      Sprites mack-wf_126: 41009052135652993
+      Sprites mack-wf_127: 4898880327506997490
+      Sprites mack-wf_128: 8677473366278719075
+      Sprites mack-wf_129: 9159070152508400522
+      Sprites mack-wf_13: -4725665821617980036
+      Sprites mack-wf_130: 7476790010873446964
+      Sprites mack-wf_131: 5140472184505843281
+      Sprites mack-wf_132: -7274801364055868837
+      Sprites mack-wf_133: -4805806833913537118
+      Sprites mack-wf_134: 8693317994491800069
+      Sprites mack-wf_135: 434240545163480972
+      Sprites mack-wf_136: -4734557025918029186
+      Sprites mack-wf_137: -1664976865172882782
+      Sprites mack-wf_138: 8614685593958301042
+      Sprites mack-wf_139: -1239107738475512468
+      Sprites mack-wf_14: 5152274854844972468
+      Sprites mack-wf_140: -5165928021926335516
+      Sprites mack-wf_141: -7446988259662913062
+      Sprites mack-wf_142: 3763796819272774227
+      Sprites mack-wf_143: 6414638718953748762
+      Sprites mack-wf_144: 7638901081637406416
+      Sprites mack-wf_145: -1495262425438136967
+      Sprites mack-wf_146: 7291542262832320827
+      Sprites mack-wf_147: 6816349131090575885
+      Sprites mack-wf_148: -2802797314401425390
+      Sprites mack-wf_149: -6916015635254534745
+      Sprites mack-wf_15: 1199754771115764760
+      Sprites mack-wf_150: -87448416182200901
+      Sprites mack-wf_151: -4529317549552472088
+      Sprites mack-wf_152: -851853691286089397
+      Sprites mack-wf_153: 1399030478921101074
+      Sprites mack-wf_154: 7779157823238543227
+      Sprites mack-wf_155: 1934159590053845846
+      Sprites mack-wf_156: 1433937670385971460
+      Sprites mack-wf_157: -4194882831775777745
+      Sprites mack-wf_158: -3249936187422750795
+      Sprites mack-wf_159: -6214387503628402315
+      Sprites mack-wf_16: -1631484785007559629
+      Sprites mack-wf_160: 3412603991625872691
+      Sprites mack-wf_161: 96089087460523963
+      Sprites mack-wf_162: -6834088712176937485
+      Sprites mack-wf_163: 6554176446022823413
+      Sprites mack-wf_164: 4196609844150570307
+      Sprites mack-wf_165: -4786929802877640793
+      Sprites mack-wf_166: 487026007181473099
+      Sprites mack-wf_167: 8025441435287842145
+      Sprites mack-wf_168: -5354305928192154617
+      Sprites mack-wf_169: 7508780069689713493
+      Sprites mack-wf_17: -4776792923512787104
+      Sprites mack-wf_170: 2026469683223457057
+      Sprites mack-wf_171: 1737879696720938918
+      Sprites mack-wf_172: 5877639016305974331
+      Sprites mack-wf_173: -5502208531509673458
+      Sprites mack-wf_174: -3501010844534221066
+      Sprites mack-wf_175: -713393394112776508
+      Sprites mack-wf_176: 6941547189045228409
+      Sprites mack-wf_177: -6739437325414514486
+      Sprites mack-wf_178: 5216980664634606581
+      Sprites mack-wf_179: -1793119035456988292
+      Sprites mack-wf_18: 7082347456797539925
+      Sprites mack-wf_180: -5370670388298010462
+      Sprites mack-wf_181: 5092034573701783295
+      Sprites mack-wf_182: 5796113085160856544
+      Sprites mack-wf_183: -5106699009698054816
+      Sprites mack-wf_184: 3716282387149180505
+      Sprites mack-wf_185: 8725559335069101112
+      Sprites mack-wf_186: 7810365126417460122
+      Sprites mack-wf_187: 2699256050749644357
+      Sprites mack-wf_188: 5878364195320808995
+      Sprites mack-wf_189: -9213266835142788594
+      Sprites mack-wf_19: -8208365822768515489
+      Sprites mack-wf_190: -7166455282886151907
+      Sprites mack-wf_191: 1940813656063838527
+      Sprites mack-wf_192: -812596351232474638
+      Sprites mack-wf_193: -2287724998100563469
+      Sprites mack-wf_194: 2282862431755552547
+      Sprites mack-wf_195: -7532509604948824673
+      Sprites mack-wf_196: -4751059728717707289
+      Sprites mack-wf_197: 4249963102074940313
+      Sprites mack-wf_198: 7855756533505422140
+      Sprites mack-wf_199: -2139850844823426174
+      Sprites mack-wf_2: -1248436335200114033
+      Sprites mack-wf_20: -5331118568148203564
+      Sprites mack-wf_200: 2493193967625188701
+      Sprites mack-wf_201: 466464775494437607
+      Sprites mack-wf_202: -1726046507159176750
+      Sprites mack-wf_203: 7463823356601224230
+      Sprites mack-wf_204: 1927363911258966704
+      Sprites mack-wf_205: -2827839299150889811
+      Sprites mack-wf_206: 2084812184349072020
+      Sprites mack-wf_207: -2178554161430110518
+      Sprites mack-wf_208: -7158873262819287741
+      Sprites mack-wf_209: -7707104700262151912
+      Sprites mack-wf_21: 7681406132729686122
+      Sprites mack-wf_210: -8912739823540422949
+      Sprites mack-wf_211: 1610854868997138059
+      Sprites mack-wf_212: -1725109898349303350
+      Sprites mack-wf_213: -272602415148978225
+      Sprites mack-wf_214: -1848216589628609576
+      Sprites mack-wf_215: -2785216695274578017
+      Sprites mack-wf_216: 5431095035550778823
+      Sprites mack-wf_217: -8879996727858188589
+      Sprites mack-wf_218: -3013835654709139637
+      Sprites mack-wf_219: 948185624526840264
+      Sprites mack-wf_22: 7180323144334074509
+      Sprites mack-wf_220: -2530165347724065969
+      Sprites mack-wf_221: -1647017461822280877
+      Sprites mack-wf_222: -5569855857523414974
+      Sprites mack-wf_223: -3276059647667261344
+      Sprites mack-wf_224: -2591811750809789195
+      Sprites mack-wf_225: -6760038886637713047
+      Sprites mack-wf_226: 6202156965988369894
+      Sprites mack-wf_227: -8877899874302059352
+      Sprites mack-wf_228: 1190271270616873889
+      Sprites mack-wf_229: 6257476575277567425
+      Sprites mack-wf_23: -6279932266824154770
+      Sprites mack-wf_230: 5217230569747941803
+      Sprites mack-wf_231: 2014286287611495479
+      Sprites mack-wf_232: 956223758576559933
+      Sprites mack-wf_233: -1601149799827175624
+      Sprites mack-wf_234: -1798189225161790833
+      Sprites mack-wf_235: 4163969925474142153
+      Sprites mack-wf_236: -7737749544201368091
+      Sprites mack-wf_237: -5758461950511517335
+      Sprites mack-wf_238: -393247794010694845
+      Sprites mack-wf_239: 2752686764847449311
+      Sprites mack-wf_24: -222326524324612574
+      Sprites mack-wf_240: -6789483407993318706
+      Sprites mack-wf_241: -5942081224990571432
+      Sprites mack-wf_242: -153625573634201829
+      Sprites mack-wf_243: -8186634675817071381
+      Sprites mack-wf_244: 3711970137509023288
+      Sprites mack-wf_245: 6330733009862433262
+      Sprites mack-wf_246: -3460339118646644439
+      Sprites mack-wf_247: -6732149814511218449
+      Sprites mack-wf_248: -6051333619291304804
+      Sprites mack-wf_249: -1495619029422427120
+      Sprites mack-wf_25: 3168781651478888490
+      Sprites mack-wf_250: -713664554027456222
+      Sprites mack-wf_251: -4535704044963079842
+      Sprites mack-wf_252: 6718373235314976568
+      Sprites mack-wf_253: 1859629334060731931
+      Sprites mack-wf_254: 1710529033502193962
+      Sprites mack-wf_255: 929175471204244329
+      Sprites mack-wf_256: -2574016329795540030
+      Sprites mack-wf_257: 3322869180706323859
+      Sprites mack-wf_258: -5506834723523487065
+      Sprites mack-wf_259: -326016857351681745
+      Sprites mack-wf_26: -6258754704351612840
+      Sprites mack-wf_260: 3118547731874108175
+      Sprites mack-wf_261: 7986107189113309360
+      Sprites mack-wf_262: -5436722592749939055
+      Sprites mack-wf_263: -9059481367433983811
+      Sprites mack-wf_264: -8151366950453166986
+      Sprites mack-wf_265: 3273791283856047704
+      Sprites mack-wf_266: 5116379907370458039
+      Sprites mack-wf_267: -2146003625668073842
+      Sprites mack-wf_268: 3199645106673785014
+      Sprites mack-wf_269: -7598419458709699934
+      Sprites mack-wf_27: -7024213591249714858
+      Sprites mack-wf_270: -4263999671654341006
+      Sprites mack-wf_271: 1249853958725667728
+      Sprites mack-wf_272: -6156299678970043919
+      Sprites mack-wf_273: -7591379769962865666
+      Sprites mack-wf_274: 9138145355982412979
+      Sprites mack-wf_275: -14798206954823578
+      Sprites mack-wf_276: -5343454673909725416
+      Sprites mack-wf_277: -1375556433552385960
+      Sprites mack-wf_278: -4370549181795164317
+      Sprites mack-wf_279: 165414600199486459
+      Sprites mack-wf_28: -8579603839600217455
+      Sprites mack-wf_280: -7525337283798398694
+      Sprites mack-wf_29: 13489046464471000
+      Sprites mack-wf_3: 5902572995165763524
+      Sprites mack-wf_30: -4645956245900023226
+      Sprites mack-wf_31: 2831023741081104190
+      Sprites mack-wf_32: -7227029179082780736
+      Sprites mack-wf_33: -7065948024588545705
+      Sprites mack-wf_34: -7247473901360913384
+      Sprites mack-wf_35: -6964316241444725881
+      Sprites mack-wf_36: 6525190559144026550
+      Sprites mack-wf_37: -486794732359345234
+      Sprites mack-wf_38: 5070408898403136954
+      Sprites mack-wf_39: 4424571515596454719
+      Sprites mack-wf_4: -1802386367324775861
+      Sprites mack-wf_40: 5245471501209865658
+      Sprites mack-wf_41: -7915772322700132795
+      Sprites mack-wf_42: 7270518707727649444
+      Sprites mack-wf_43: -1233530578215088608
+      Sprites mack-wf_44: 5658818279866761473
+      Sprites mack-wf_45: 8572258603439336916
+      Sprites mack-wf_46: -8003982750564883496
+      Sprites mack-wf_47: -288980708649099248
+      Sprites mack-wf_48: 1026510740267011344
+      Sprites mack-wf_49: -4800039122347119180
+      Sprites mack-wf_5: -7230993887437023435
+      Sprites mack-wf_50: -4616059421394260410
+      Sprites mack-wf_51: -2957293032109664652
+      Sprites mack-wf_52: -488248287238967939
+      Sprites mack-wf_53: -8219026817799903099
+      Sprites mack-wf_54: -8205588768979865574
+      Sprites mack-wf_55: -5343118023041235051
+      Sprites mack-wf_56: 5999054071772452420
+      Sprites mack-wf_57: -4800020607588967565
+      Sprites mack-wf_58: -4026143197089667174
+      Sprites mack-wf_59: 8869544877767679534
+      Sprites mack-wf_6: -1959842087812511133
+      Sprites mack-wf_60: -4110210368733676124
+      Sprites mack-wf_61: 5130440367352076652
+      Sprites mack-wf_62: 1737981954216049581
+      Sprites mack-wf_63: -7306797486845838630
+      Sprites mack-wf_64: 407154970526388645
+      Sprites mack-wf_65: 954843198216328081
+      Sprites mack-wf_66: 6523305624400037698
+      Sprites mack-wf_67: -3391690449413343594
+      Sprites mack-wf_68: -4653477906177637508
+      Sprites mack-wf_69: -7968662160716720962
+      Sprites mack-wf_7: 5623105322396117166
+      Sprites mack-wf_70: -9151483038050995687
+      Sprites mack-wf_71: -1455229780143858231
+      Sprites mack-wf_72: -9196304101767032779
+      Sprites mack-wf_73: 9172467120344309393
+      Sprites mack-wf_74: 2330580865233962854
+      Sprites mack-wf_75: -8127631592337138
+      Sprites mack-wf_76: -2322459058950252208
+      Sprites mack-wf_77: -1580540697530183164
+      Sprites mack-wf_78: -1911361586857751098
+      Sprites mack-wf_79: -5889993213330674950
+      Sprites mack-wf_8: -2241915126244162589
+      Sprites mack-wf_80: -2499409207039888956
+      Sprites mack-wf_81: -8939041197133181276
+      Sprites mack-wf_82: -7132562431605339659
+      Sprites mack-wf_83: 3653140135687300832
+      Sprites mack-wf_84: -2026666054936021217
+      Sprites mack-wf_85: -4698853314218135699
+      Sprites mack-wf_86: -2437478842721898713
+      Sprites mack-wf_87: 3542150891298599142
+      Sprites mack-wf_88: -6752385086750431893
+      Sprites mack-wf_89: -3920912390815068674
+      Sprites mack-wf_9: -608794547037598071
+      Sprites mack-wf_90: -6510089102326963262
+      Sprites mack-wf_91: -8853838635993964641
+      Sprites mack-wf_92: 7608205740487014074
+      Sprites mack-wf_93: 5192300546310787763
+      Sprites mack-wf_94: 1768955827015357031
+      Sprites mack-wf_95: -4743844002183794119
+      Sprites mack-wf_96: 4449500369035349636
+      Sprites mack-wf_97: -6945113011334415941
+      Sprites mack-wf_98: 7267155072623767212
+      Sprites mack-wf_99: -1773285622186511825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

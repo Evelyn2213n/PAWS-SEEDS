@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 9e7212d643a444a4cace2a196a5080e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 765175110140831298
+    second: MACK_JUMPS_0
+  - first:
+      213: -5677296971149435582
+    second: MACK_JUMPS_1
+  - first:
+      213: -7158857650181393645
+    second: MACK_JUMPS_2
+  - first:
+      213: -5000946069495406895
+    second: MACK_JUMPS_3
+  - first:
+      213: 902798690779559084
+    second: MACK_JUMPS_4
+  - first:
+      213: 5702000542931251840
+    second: MACK_JUMPS_5
+  - first:
+      213: 2473956398700859462
+    second: MACK_JUMPS_6
+  - first:
+      213: -3204971242650626757
+    second: MACK_JUMPS_7
+  - first:
+      213: 6650794286251323003
+    second: MACK_JUMPS_8
+  - first:
+      213: -3934302705961381476
+    second: MACK_JUMPS_9
+  - first:
+      213: 5906081170559161408
+    second: MACK_JUMPS_10
+  - first:
+      213: 8303206602955321531
+    second: MACK_JUMPS_11
+  - first:
+      213: 3250136799875837229
+    second: MACK_JUMPS_12
+  - first:
+      213: -1201155488519647199
+    second: MACK_JUMPS_13
+  - first:
+      213: -5028151685785436428
+    second: MACK_JUMPS_14
+  - first:
+      213: 1742126726518697088
+    second: MACK_JUMPS_15
+  - first:
+      213: -959753910051027761
+    second: MACK_JUMPS_16
+  - first:
+      213: -7813404012574783193
+    second: MACK_JUMPS_17
+  - first:
+      213: -858304279025782469
+    second: MACK_JUMPS_18
+  - first:
+      213: 7532023841494260178
+    second: MACK_JUMPS_19
+  - first:
+      213: 7210415941454379844
+    second: MACK_JUMPS_20
+  - first:
+      213: 8605246001185533407
+    second: MACK_JUMPS_21
+  - first:
+      213: 7329578825440837735
+    second: MACK_JUMPS_22
+  - first:
+      213: 5188183595674399160
+    second: MACK_JUMPS_23
+  - first:
+      213: 7684595517168502425
+    second: MACK_JUMPS_24
+  - first:
+      213: -1816080249677949659
+    second: MACK_JUMPS_25
+  - first:
+      213: 2174331019075605718
+    second: MACK_JUMPS_26
+  - first:
+      213: -1106242524134412983
+    second: MACK_JUMPS_27
+  - first:
+      213: -5593115567981624463
+    second: MACK_JUMPS_28
+  - first:
+      213: 1286426337400933743
+    second: MACK_JUMPS_29
+  - first:
+      213: -5267285273936341479
+    second: MACK_JUMPS_30
+  - first:
+      213: -9096256853235146860
+    second: MACK_JUMPS_31
+  - first:
+      213: -4735474392620079026
+    second: MACK_JUMPS_32
+  - first:
+      213: -281026171026043293
+    second: MACK_JUMPS_33
+  - first:
+      213: 1089307750437604366
+    second: MACK_JUMPS_34
+  - first:
+      213: 8803003339597055073
+    second: MACK_JUMPS_35
+  - first:
+      213: -2411849802525235313
+    second: MACK_JUMPS_36
+  - first:
+      213: 4003618267861497386
+    second: MACK_JUMPS_37
+  - first:
+      213: -8769824452806857937
+    second: MACK_JUMPS_38
+  - first:
+      213: 4118437016711940320
+    second: MACK_JUMPS_39
+  - first:
+      213: -4807836589876704213
+    second: MACK_JUMPS_40
+  - first:
+      213: 944468250804630930
+    second: MACK_JUMPS_41
+  - first:
+      213: -3750276566194652635
+    second: MACK_JUMPS_42
+  - first:
+      213: 2496205983540557618
+    second: MACK_JUMPS_43
+  - first:
+      213: -7168840322929713596
+    second: MACK_JUMPS_44
+  - first:
+      213: -6757526967454162066
+    second: MACK_JUMPS_45
+  - first:
+      213: -8041471974095032637
+    second: MACK_JUMPS_46
+  - first:
+      213: 5111477047821269821
+    second: MACK_JUMPS_47
+  - first:
+      213: -645868469327320544
+    second: MACK_JUMPS_48
+  - first:
+      213: 7014092943894581175
+    second: MACK_JUMPS_49
+  - first:
+      213: -1927964792784105397
+    second: MACK_JUMPS_50
+  - first:
+      213: -3133558401405598956
+    second: MACK_JUMPS_51
+  - first:
+      213: -1485884701364876697
+    second: MACK_JUMPS_52
+  - first:
+      213: -4608077763153857297
+    second: MACK_JUMPS_53
+  - first:
+      213: 6484804717999004345
+    second: MACK_JUMPS_54
+  - first:
+      213: 8363777426675227083
+    second: MACK_JUMPS_55
+  - first:
+      213: -6023652724457840753
+    second: MACK_JUMPS_56
+  - first:
+      213: 2572813600398380581
+    second: MACK_JUMPS_57
+  - first:
+      213: 2577394298670662248
+    second: MACK_JUMPS_58
+  - first:
+      213: -2170891489873926518
+    second: MACK_JUMPS_59
+  - first:
+      213: -1567217989860451822
+    second: MACK_JUMPS_60
+  - first:
+      213: 8110443831806755849
+    second: MACK_JUMPS_61
+  - first:
+      213: -4854583038814477090
+    second: MACK_JUMPS_62
+  - first:
+      213: -5716092495548880800
+    second: MACK_JUMPS_63
+  - first:
+      213: 7669921899288110982
+    second: MACK_JUMPS_64
+  - first:
+      213: -9073145767728146080
+    second: MACK_JUMPS_65
+  - first:
+      213: 8034682344196569719
+    second: MACK_JUMPS_66
+  - first:
+      213: 2178906482493116037
+    second: MACK_JUMPS_67
+  - first:
+      213: 2149093711323860596
+    second: MACK_JUMPS_68
+  - first:
+      213: 5771016526067179678
+    second: MACK_JUMPS_69
+  - first:
+      213: 4132275830182653158
+    second: MACK_JUMPS_70
+  - first:
+      213: 7110889164797566335
+    second: MACK_JUMPS_71
+  - first:
+      213: -1205872326181990894
+    second: MACK_JUMPS_72
+  - first:
+      213: 125121826232371832
+    second: MACK_JUMPS_73
+  - first:
+      213: 8028913584342649530
+    second: MACK_JUMPS_74
+  - first:
+      213: 5887540522108594715
+    second: MACK_JUMPS_75
+  - first:
+      213: 5935094008849910917
+    second: MACK_JUMPS_76
+  - first:
+      213: 6848938704305346781
+    second: MACK_JUMPS_77
+  - first:
+      213: 3781747480191261692
+    second: MACK_JUMPS_78
+  - first:
+      213: 4439947610952727079
+    second: MACK_JUMPS_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 135
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MACK_JUMPS_35
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 431
+        width: 162
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1648245a5ec8a2a70800000000000000
+      internalID: 8803003339597055073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MACK_JUMPS_67
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 311
+        width: 207
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e4cc7c6e70d3e10800000000000000
+      internalID: 2178906482493116037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MACK_JUMPS_71
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 302
+        width: 169
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ddee03504fea260800000000000000
+      internalID: 7110889164797566335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MACK_JUMPS_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 235
+        width: 191
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd85b8ed6715c0f50800000000000000
+      internalID: 6848938704305346781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MACK_JUMPS_78
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 236
+        width: 181
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb5703fb477b7430800000000000000
+      internalID: 3781747480191261692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MACK_JUMPS_79
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 236
+        width: 167
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a7e2c04dcdd9d30800000000000000
+      internalID: 4439947610952727079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 82b2b4e007028dd4aa2275e3ad650c58
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MACK_JUMPS_0: 765175110140831298
+      MACK_JUMPS_1: -5677296971149435582
+      MACK_JUMPS_10: 5906081170559161408
+      MACK_JUMPS_11: 8303206602955321531
+      MACK_JUMPS_12: 3250136799875837229
+      MACK_JUMPS_13: -1201155488519647199
+      MACK_JUMPS_14: -5028151685785436428
+      MACK_JUMPS_15: 1742126726518697088
+      MACK_JUMPS_16: -959753910051027761
+      MACK_JUMPS_17: -7813404012574783193
+      MACK_JUMPS_18: -858304279025782469
+      MACK_JUMPS_19: 7532023841494260178
+      MACK_JUMPS_2: -7158857650181393645
+      MACK_JUMPS_20: 7210415941454379844
+      MACK_JUMPS_21: 8605246001185533407
+      MACK_JUMPS_22: 7329578825440837735
+      MACK_JUMPS_23: 5188183595674399160
+      MACK_JUMPS_24: 7684595517168502425
+      MACK_JUMPS_25: -1816080249677949659
+      MACK_JUMPS_26: 2174331019075605718
+      MACK_JUMPS_27: -1106242524134412983
+      MACK_JUMPS_28: -5593115567981624463
+      MACK_JUMPS_29: 1286426337400933743
+      MACK_JUMPS_3: -5000946069495406895
+      MACK_JUMPS_30: -5267285273936341479
+      MACK_JUMPS_31: -9096256853235146860
+      MACK_JUMPS_32: -4735474392620079026
+      MACK_JUMPS_33: -281026171026043293
+      MACK_JUMPS_34: 1089307750437604366
+      MACK_JUMPS_35: 8803003339597055073
+      MACK_JUMPS_36: -2411849802525235313
+      MACK_JUMPS_37: 4003618267861497386
+      MACK_JUMPS_38: -8769824452806857937
+      MACK_JUMPS_39: 4118437016711940320
+      MACK_JUMPS_4: 902798690779559084
+      MACK_JUMPS_40: -4807836589876704213
+      MACK_JUMPS_41: 944468250804630930
+      MACK_JUMPS_42: -3750276566194652635
+      MACK_JUMPS_43: 2496205983540557618
+      MACK_JUMPS_44: -7168840322929713596
+      MACK_JUMPS_45: -6757526967454162066
+      MACK_JUMPS_46: -8041471974095032637
+      MACK_JUMPS_47: 5111477047821269821
+      MACK_JUMPS_48: -645868469327320544
+      MACK_JUMPS_49: 7014092943894581175
+      MACK_JUMPS_5: 5702000542931251840
+      MACK_JUMPS_50: -1927964792784105397
+      MACK_JUMPS_51: -3133558401405598956
+      MACK_JUMPS_52: -1485884701364876697
+      MACK_JUMPS_53: -4608077763153857297
+      MACK_JUMPS_54: 6484804717999004345
+      MACK_JUMPS_55: 8363777426675227083
+      MACK_JUMPS_56: -6023652724457840753
+      MACK_JUMPS_57: 2572813600398380581
+      MACK_JUMPS_58: 2577394298670662248
+      MACK_JUMPS_59: -2170891489873926518
+      MACK_JUMPS_6: 2473956398700859462
+      MACK_JUMPS_60: -1567217989860451822
+      MACK_JUMPS_61: 8110443831806755849
+      MACK_JUMPS_62: -4854583038814477090
+      MACK_JUMPS_63: -5716092495548880800
+      MACK_JUMPS_64: 7669921899288110982
+      MACK_JUMPS_65: -9073145767728146080
+      MACK_JUMPS_66: 8034682344196569719
+      MACK_JUMPS_67: 2178906482493116037
+      MACK_JUMPS_68: 2149093711323860596
+      MACK_JUMPS_69: 5771016526067179678
+      MACK_JUMPS_7: -3204971242650626757
+      MACK_JUMPS_70: 4132275830182653158
+      MACK_JUMPS_71: 7110889164797566335
+      MACK_JUMPS_72: -1205872326181990894
+      MACK_JUMPS_73: 125121826232371832
+      MACK_JUMPS_74: 8028913584342649530
+      MACK_JUMPS_75: 5887540522108594715
+      MACK_JUMPS_76: 5935094008849910917
+      MACK_JUMPS_77: 6848938704305346781
+      MACK_JUMPS_78: 3781747480191261692
+      MACK_JUMPS_79: 4439947610952727079
+      MACK_JUMPS_8: 6650794286251323003
+      MACK_JUMPS_9: -3934302705961381476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
